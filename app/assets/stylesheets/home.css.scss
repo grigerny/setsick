@@ -1,0 +1,75 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+//Background image
+
+body {
+background:#DBFFFA;
+}
+
+.topbar{
+background:#3692DB;
+height:60px;
+-moz-box-shadow: 0 0 5px 5px #888;
+-webkit-box-shadow: 0 0 5px 5px#888;
+box-shadow: 0 0 5px 5px #888;
+}
+
+.logo{
+color:#FFFFFF;
+font-family:Negotiate;
+font-size:200%;
+padding:20px;
+}
+
+.topbartext{
+color:#FFFFFF;
+font-family:Negotiate;
+font-size:200%;
+padding:20px;
+}
+
+
+.topline{
+margin-top:10px;
+background:#3692DB;
+padding:1px;
+}
+
+.toplinetext{
+font-family:Negotiate;
+color:#3692DB;
+font-size:150%;
+padding:10px;
+}
+
+.tags{
+font-family:Negotiate;
+color:#67F26C;
+font-size:150%;
+padding:20px;
+}
+
+.pagebody{
+margin-top:20px;
+height:500px;
+background:#3692DB;
+-moz-box-shadow: -5px -5px 5px #888;
+-webkit-box-shadow: -5px -5px 5px #888;
+box-shadow: -5px -5px 5px #888;
+}
+
+.headingstext{
+color:#FFFFFF;
+font-family:Negotiate;
+font-size:140%;
+padding:10px;
+}
+
+.line{
+margin-top:10px;
+background:#DBFFFA;
+padding:1px;
+}
+
